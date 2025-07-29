@@ -6,8 +6,7 @@ This repository contains my personal solutions to Data Structures and Algorithms
 
 ## 📂 Directory Structure
 
-DSA PRACTICE/   
-│    
+   
 ├── Arrays/     
 ├── Dynamic Programming/    
 ├── Linked List/    
