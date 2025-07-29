@@ -6,13 +6,13 @@ This repository contains my personal solutions to Data Structures and Algorithms
 
 ## 📂 Directory Structure
 
-DSA PRACTICE/
-│
-├── Arrays/
-├── Dynamic Programming/
-├── Linked List/
-├── Maths/
-├── Strings/
+DSA PRACTICE/   
+│    
+├── Arrays/     
+├── Dynamic Programming/    
+├── Linked List/    
+├── Maths/    
+├── Strings/    
 
 
 - **Arrays/**: Problems related to array data structures and algorithms.
