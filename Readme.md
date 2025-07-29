@@ -44,7 +44,7 @@ This repository contains my personal solutions to Data Structures and Algorithms
 
 ## 🚧 Progress
 
-- ✅ Problems solved: _(update as you add solutions)_
+- ✅ Problems solved: _(update as I add solutions)_
 - 🎯 Goal: Solve a broad range of problems for each core topic
 
 ---
