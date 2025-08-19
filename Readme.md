@@ -8,6 +8,7 @@ This repository contains my personal solutions to Data Structures and Algorithms
 
    
 ├── Arrays/     
+├── Diagram/     
 ├── Dynamic Programming/    
 ├── Linked List/    
 ├── Maths/    
@@ -15,6 +16,7 @@ This repository contains my personal solutions to Data Structures and Algorithms
 
 
 - **Arrays/**: Problems related to array data structures and algorithms.
+- **Diagram/**: All diagram related to concepts to visualise the concepts.
 - **Dynamic Programming/**: Solutions to problems using dynamic programming techniques.
 - **Linked List/**: Solutions involving singly or doubly linked lists.
 - **Maths/**: Mathematical algorithms and problem solutions.
@@ -35,6 +37,7 @@ This repository contains my personal solutions to Data Structures and Algorithms
 ## 🗂️ Topics Covered
 
 - Arrays
+- Diagram
 - Dynamic Programming
 - Linked List
 - Maths
